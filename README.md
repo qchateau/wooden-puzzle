@@ -4,11 +4,11 @@
 
 A wooden puzzle I got as a gift. Turns out it's pretty difficult.
 
-## Definin the problem space
+## Defining the problem space
 
 The problem space is defined as a 3D grid of positions in the range [-2; +2]. Wooden cubes occupy positions -2, 0 or 2 in all directions. Only one dimention of the wooden plates can occupy the -1 or 1 position.
 
-## Definin the pieces
+## Defining the pieces
 
 Each of the 8 pieces is defined by the position of its elements, both cubes and plates. Plates are defined as 1, 2 or 3 elements depending on their length.
 I attached pictures of each piece, their reference position and their id.
